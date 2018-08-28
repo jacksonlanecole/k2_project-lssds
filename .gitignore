@@ -1,3 +1,5 @@
 *.dat
 *.aux
 *.pyc
+log
+*.ipynb_checkpoints
